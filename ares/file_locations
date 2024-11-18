@@ -1,0 +1,15 @@
+/var/lib/zotero
+/var/lib/jellyfin
+/var/www/files
+/var/lib/nextcloud
+
+useful:
+/var/lib/qbit
+/var/lib/wireguard
+/var/lib/unbound
+/var/lib/ssl
+/var/lib/kavita
+
+/var/lib/grafana
+/var/lib/vaultwarden
+/var/lib/radicale
