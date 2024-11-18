@@ -11,7 +11,7 @@
       /etc/nixos/chron.nix
       /etc/nixos/dns.nix
       /etc/nixos/provider/grafana.nix
-      /etc/nixos/provider/jellyfin.nix
+      /etc/nixos/metal_alternative/jellyfin.nix
       /etc/nixos/provider/kavita.nix
       /etc/nixos/kernel.nix
       /etc/nixos/networking.nix
